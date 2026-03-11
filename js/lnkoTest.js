@@ -1,4 +1,4 @@
-import { lnko } from "./fugveny.js";
+import { lnko } from "./fuggveny.js";
 
 function lnkoTest() {
   let a = 18;
